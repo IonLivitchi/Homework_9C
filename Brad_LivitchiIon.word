@@ -1,0 +1,29 @@
+
+public class ChristmasTree {
+	public static void main(String[] args) {
+		printChristmasTree();
+	}
+	public static void printChristmasTree() {
+		System.out.println(""
+				+ "          88\n"
+				+ "         /  \\\n"
+				+ "        /    \\\n"
+				+ "       /______\\\n"
+				+ "        /    \\\n"
+				+ "       /      \\\n"
+			    + "      /        \\\n"
+			    + "     /_        _\\\n"
+			    + "      /        \\\n"
+			    + "     /          \\\n"
+			    + "    /            \\\n"
+			    + "   /             \\\n"
+			    + "  /               \\\n"
+			    + " /                 \\\n"
+			    + "/_______     _______\\\n"
+			    + "        |    |\n"
+			    + "        |    |\n"
+			    + "        ------\n");
+	}
+
+}
+
